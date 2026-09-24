@@ -1,6 +1,6 @@
 .{
     .name = .regex,
-    .version = "0.0.0",
+    .version = "0.1.0",
     .fingerprint = 0x4204f8ca80c5b2a2, // Changing this has security and trust implications.
     .minimum_zig_version = "0.15.0",
     .dependencies = .{},
